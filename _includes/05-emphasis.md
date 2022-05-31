@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Knowledge about_ **Web Design: HTML, CCS**
+_Knowledge about_ **Graphic Design**
+_Knowledge about_ **Portuguese BR (Native Language), English**
