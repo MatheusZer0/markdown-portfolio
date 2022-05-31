@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favorite foods
+1 Pizza
+2 Cheeseburger
+3 Lasagna
+4 Ice Cream
+5 Chocolate Bar
